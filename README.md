@@ -19,8 +19,3 @@ This project builds a **Multiple Linear Regression** model to predict car prices
 1. **Data Cleaning & Preparation**: Extract company names from `CarName`.
 2. **Modeling**: Build a multiple linear regression model.
 3. **Evaluation**: Use `r2_score` to evaluate the model on test data.
-
-## Deliverables
-
-1. **Python Notebook**: Full code for model building, predictions, and evaluation.
-2. **PDF**: Answers to subjective questions on linear regression.
