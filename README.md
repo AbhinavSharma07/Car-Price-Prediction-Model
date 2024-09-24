@@ -1,4 +1,3 @@
-''']'''''''\\\\\;lllll'''l;;;gvvggvvgvgvvgvgvgvgvgvvggggghbbbn....
 # Car-Price-Prediction-Model
 
 ## Overview
